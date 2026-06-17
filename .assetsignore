@@ -1,0 +1,9 @@
+.git
+.git/**
+.wrangler
+.wrangler/**
+.gitignore
+.assetsignore
+README.md
+TONIGHT_CHECKLIST.md
+*.md
